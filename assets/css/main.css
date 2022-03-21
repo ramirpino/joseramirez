@@ -111,6 +111,8 @@ section {
   display: block;
 }
 
+.formfooter {display:none; }
+
 body {
   line-height: 1;
 }
